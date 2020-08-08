@@ -1,12 +1,12 @@
-import shutil
 
-print("Enter file")
-source=input()
+print(f"Employee no\t| Employee Name\t\t| Hours worked")
+print("")
 
-print("Enter file")
-destination=input()
+f=open("data.txt","r")
+for lines in f.readlines():
+    substr=lines.split(",")
+    print(f"{substr[0]}\t\t|{substr[1]} {substr[2]}\t\t|{substr[3]}")
 
-from shutil import copyfile
-copyfile(source,destination)
 
+f.close()
 

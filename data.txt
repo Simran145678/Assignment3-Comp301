@@ -1,0 +1,10 @@
+12345,Sian,Simran,20
+23456,Sahaj,Sian,40
+34567,Gagan,Darar,40
+45678,Usman,Malik,50
+56789,Manan,Pathak,35
+67890,Nisarg, Patel,12
+78901,Baljot,Singh,40
+89012,Diya,Mirza,30
+90123,Prachi,Tomar,60
+01234,Karam,Sidhu,30
